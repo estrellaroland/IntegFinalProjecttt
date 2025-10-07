@@ -13,12 +13,12 @@ const categories = [
 ];
 
 const products = [
-  { id: 1, name: 'Ding Dong', category: 'Sweet Snacks', price: 45, image: 'https://images.pexels.com/photos/890577/pexels-photo-890577.jpeg?auto=compress&cs=tinysrgb&w=400' },
-  { id: 2, name: 'Boy Bawang Cornick', category: 'Nuts', price: 35, image: 'https://images.pexels.com/photos/1295572/pexels-photo-1295572.jpeg?auto=compress&cs=tinysrgb&w=400' },
-  { id: 3, name: 'Mang Juan Hot Chili', category: 'Chips', price: 25, image: 'https://images.pexels.com/photos/158968/ibiza-chips-plate-food-snack-158968.jpeg?auto=compress&cs=tinysrgb&w=400' },
-  { id: 4, name: 'Salted Egg Chips', category: 'Chips', price: 85, image: 'https://www.thesevenpantry.com/cdn/shop/products/TSP-CrackleSEa.jpg?v=1613627379&width=800' },
-  { id: 5, name: 'Chicharon Cracklings', category: 'Crackers', price: 65, image: 'https://images.pexels.com/photos/6419734/pexels-photo-6419734.jpeg?auto=compress&cs=tinysrgb&w=400' },
-  { id: 6, name: "Marty's Cracklin", category: 'Crackers', price: 120, image: 'https://images.pexels.com/photos/1583884/pexels-photo-1583884.jpeg?auto=compress&cs=tinysrgb&w=400' },
+  { id: 1, name: 'Ding Dong', category: 'Sweet Snacks', price: 45, image: 'https://www.rebisco.com.ph/488-large_default_2x/dingdong-snack-mix.jpg' },
+  { id: 2, name: 'Boy Bawang Cornick', category: 'Nuts', price: 35, image: 'https://unofoodsinc.com/wp-content/uploads/2023/02/boy-bawang-cornick-hot-garlic-flavor-90g-p116-1984_zoom.jpg' },
+  { id: 3, name: 'Mang Juan Hot Chili', category: 'Chips', price: 25, image: 'https://s3.ap-southeast-1.amazonaws.com/drive.builtamart.com/new-item-repository/9044.jpg' },
+  { id: 4, name: 'Salted Egg Chips', category: 'Chips', price: 85, image: 'https://happyhour.ph/cdn/shop/files/802603_396c0c62-6209-40e4-a6f2-037186559d2f.png?v=1727517564' },
+  { id: 5, name: 'Chicharon Cracklings', category: 'Crackers', price: 65, image: 'https://m.media-amazon.com/images/I/81OXxZ7hrJL._UF1000,1000_QL80_.jpg' },
+  { id: 6, name: "Marty's Cracklin", category: 'Crackers', price: 120, image: ' https://imartgrocersph.com/wp-content/uploads/2020/09/Marty_s-Crackling-Salt-and-Vinegar-26g.png },
 ];
 
 export default function ShopScreen() {
