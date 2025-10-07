@@ -18,7 +18,7 @@ const products = [
   { id: 3, name: 'Mang Juan Hot Chili', category: 'Chips', price: 25, image: 'https://s3.ap-southeast-1.amazonaws.com/drive.builtamart.com/new-item-repository/9044.jpg' },
   { id: 4, name: 'Salted Egg Chips', category: 'Chips', price: 85, image: 'https://happyhour.ph/cdn/shop/files/802603_396c0c62-6209-40e4-a6f2-037186559d2f.png?v=1727517564' },
   { id: 5, name: 'Chicharon Cracklings', category: 'Crackers', price: 65, image: 'https://m.media-amazon.com/images/I/81OXxZ7hrJL._UF1000,1000_QL80_.jpg' },
-  { id: 6, name: "Marty's Cracklin", category: 'Crackers', price: 120, image: ' https://imartgrocersph.com/wp-content/uploads/2020/09/Marty_s-Crackling-Salt-and-Vinegar-26g.png },
+  { id: 6, name: "Marty's Cracklin", category: 'Crackers', price: 120, image: 'https://imartgrocersph.com/wp-content/uploads/2020/09/Marty_s-Crackling-Salt-and-Vinegar-26g.png' },
 ];
 
 export default function ShopScreen() {
