@@ -10,11 +10,12 @@ import { Mail, Linkedin, Github } from 'lucide-react-native';
 
 const developers = [
   {
-    name: 'Your Name',
+    name: 'Sean Jacob B. Trinidada',
     role: 'Project Lead & Developer',
-    email: 'your.email@example.com',
-    linkedin: 'https://linkedin.com/in/yourprofile',
-    github: 'https://github.com/yourusername',
+    email: 'qsjbtrinidad@tip.edu.ph',
+    linkedin: 'https://www.linkedin.com/in/sean-jacob-trinidad-762226389/
+',
+    github: 'https://github.com/seantii',
   },
   {
     name: 'Roland Angelo Estrella',
