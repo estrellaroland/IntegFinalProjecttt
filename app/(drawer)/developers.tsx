@@ -13,8 +13,7 @@ const developers = [
     name: 'Sean Jacob B. Trinidada',
     role: 'Project Lead & Developer',
     email: 'qsjbtrinidad@tip.edu.ph',
-    linkedin: 'https://www.linkedin.com/in/sean-jacob-trinidad-762226389/
-',
+    linkedin: 'https://www.linkedin.com/in/sean-jacob-trinidad-762226389/',
     github: 'https://github.com/seantii',
   },
   {
